@@ -10,5 +10,5 @@ Vielen Dank, dass Sie sich für eine Mitwirkung an diesem Projekt interessieren!
 - Bevor Sie ein neues Issue öffnen, überprüfen Sie, ob es bereits existiert.
 
 ## Pull Requests
-- Erstellen Sie eine Beschreibung Ihres Änderungsantrags.
+- Erstellen Sie eine klare Beschreibung Ihres Änderungsantrags.
 - Verlinken Sie auf das entsprechende Issue, falls vorhanden.
